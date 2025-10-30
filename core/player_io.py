@@ -1,2 +1,5 @@
 def ask_player_action() -> str:
-    pass
+    
+    user = input(" S or H: ")
+
+   
